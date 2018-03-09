@@ -43,5 +43,5 @@ All files are designed to print on < A4 size acrylic/timber other cuttable mater
 
 I'll endeavour to get more information, prices, instructions and all that jazz. There is more than enough to go build one for yourself at this point so enjoy.
 
-There is a build log at smallformfactor.net that you can follow [HERE](https://smallformfactor.net/forum/threads/yasff-open-source-small-basic-low-cost.3282/)
+There is a build log at smallformfactor.net that you can follow [HERE](https://smallformfactor.net/forum/threads/yasff-build.6950/)
 
