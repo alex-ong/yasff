@@ -1,7 +1,7 @@
 ## YASFF
 Yet Another Small Form Factor.
 
-![photo-1](https://i.imgur.com/rtpeEoA.png "Assembled YASFF")
+![photo-1](https://i.imgur.com/JfH0eRr.jpg "Assembled YASFF")
 
 
 ### Specifications
@@ -39,7 +39,7 @@ All files are designed to print on < A4 size acrylic/timber other cuttable mater
 | M3 5mm Brass hex female-female spacer | 4   |    $3  | [Link](https://i.imgur.com/RtYRjZ0.png "standoff") | ebay.com |
 | 19mm anti-vandal switch      | 1  |    $1  | [Link](https://i.imgur.com/a2G6nKk.jpg "Momentary switch") | ebay.com |
 | Plastic momentary switch (use for cable) | 1 | $1 | [Link](https://imgur.com/a/vheCR "Momentary switch") | ebay.com |
-| G304 6-32 UNC Imperial Coarse Pan Phillip Machine Screw | 5 | $5.40 | Used for PSU | ebay.com |
+| G304 6-32 UNC Imperial Coarse Pan Phillip Machine Screw  5/16" long| 5 | $5.40 | Used for PSU | ebay.com |
 
 I'll endeavour to get more information, prices, instructions and all that jazz. There is more than enough to go build one for yourself at this point so enjoy.
 
